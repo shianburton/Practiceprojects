@@ -1,0 +1,11 @@
+var output = [];
+var count = 1;
+
+function fizzBuzz () {
+
+  output.push(count) 
+Console.log(output)  
+   
+}
+
+
